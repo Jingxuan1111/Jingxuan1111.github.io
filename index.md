@@ -1,3 +1,4 @@
+<div>
 <table bolder="0">
   <tr>
     <td width="75%">
@@ -11,7 +12,9 @@
     </td>
   </tr>
 </table>
+</div>
 
+---
 
 # **Biography**
 ### I am currently a master student in Biomolecular-material Interface group, department of Materials Science & Engineering, University of California. My advisor is [Yuhuang](http://yhuang.seas.ucla.edu/Research/). I received my B.Eng.Degree from Xian Jiao Tong University (XJTU), under the supervision of [Prof.Hongjie Wang](http://mse-en.xjtu.edu.cn/en/people_show.php?id=4388) and a B.Sci.Degree of Economics as the second major.
@@ -23,6 +26,7 @@
 ### Experienced user of FEI (T12-TEM); XRD ; SEM
 ### Master the ICP-MS , ORR and HER testing of catalysts.
 ### Manage to do the Hydrothermal sythesis of 2D materials and Biomimetic sythesis of Pt-nanowire.
+### 
 
 
 
