@@ -29,4 +29,3 @@
 ### Manage to do the Hydrothermal sythesis of 2D materials and Biomimetic sythesis of Pt-nanowire.
 ### Master the use of peptide synthesizer (CSBIO).
 
-
