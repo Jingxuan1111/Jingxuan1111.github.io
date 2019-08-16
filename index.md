@@ -7,7 +7,9 @@
       <p><b>address: 11070 strathmore drive, apt 19. CA 90024</b></p> 
     </td>
     <td width="25%">
-      <img src="/zhaopian.jpg" width="100%"> 
+      <img src="/zhaopian.jpg" width="100%">
+    </td>
+  </tr>
 </table>
 
 # **Biography**
