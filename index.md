@@ -1,5 +1,3 @@
-# **Jingxuan Zhou**
-
 <table bolder="0">
   <tr>
     <td width="75%">
