@@ -32,12 +32,12 @@
 
 # **Projects**
 ## Undergraduate thesis
-### **Construction of MoS2/SiC nanowire composites and electrocatalyst
+### **Construction of MoS2/SiC nanowire composites and electrocatalyst**
 #### Hydrothermal synthesize the composite and obtain catalysts with good HER properties through optimzizing the ratio of contents of the composite
 #### The research essay Emerging 1D/2D hybrid nanocomposites of SiC nanowires wrapped with MoS2 nanosheets as an efficient electrocatalyst has been recently submitted to the Materials Horizons.
 
 ## Current work
-### **Biomimetic synthesis of Ultrathin Pt nanowires by peptide-BP7A 
+### **Biomimetic synthesis of Ultrathin Pt nanowires by peptide-BP7A** 
 #### The Pt-nanowire supposed to show high ECSA and SA for ORR testing.
 
 ## Graduate thesis topic
