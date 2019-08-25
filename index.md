@@ -44,7 +44,7 @@
 ### **The synthesis and self-assembling of Pt nanoparticles driven by peptides**
 #### Apply Al and peptide-T7(T-L-T-T-L-T-A) to obtain 1D assembling.The 3D assembling is accomplished by Al and peptide-S7(S-S-P-P-G-P-A)
 
-# Selected Honours
+# **Selected Honours**
 ### Second prize, the 11th Challenge Cup Shaanxi Undergraduated Curricular Academic Science & Technology works
 ### Second prize, the 10th China College Students' Entrepreneurship Competition
 ### Outstanding Project of the 1st and 2nd XJTU Youth Leadership Project
