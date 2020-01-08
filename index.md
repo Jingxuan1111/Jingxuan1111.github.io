@@ -31,6 +31,7 @@
 ### Master the ICP-MS , ORR and HER testing of catalysts.
 ### Manage to do the Hydrothermal synthesis of 2D materials and Biomimetic synthesis of Pt-nanowire.
 ### Master the use of peptide synthesizer (CSBIO).
+### Master the electrochemical intercalation and exfoliation of TMDs materials
 
 # **Projects**
 ## Undergraduate thesis
