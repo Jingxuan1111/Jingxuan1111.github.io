@@ -54,7 +54,7 @@
 #### Design a freeze-drying process for the exfoliated TMDs to form a semiconducting aerogel, which may have promising optical or mechanical properties
 
 ### **Vertical stacking of TMDs flakes**
-#### Applying strong binding peptide (specifically selected by phage library) to enhance the van de waals binding force for the TMDs flakes
+#### Applying strong binding peptide (specifically selected by phage library) to enhance the van de waals binding force between the TMDs flakes
 
 # **Selected Honours**
 ### Second prize, the 11th Challenge Cup Shaanxi Undergraduated Curricular Academic Science & Technology works
