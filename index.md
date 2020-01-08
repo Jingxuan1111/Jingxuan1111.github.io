@@ -24,14 +24,15 @@
 ### Energy storage & conversion materials; 2D materials; Nanomaterials
 
 # **Motto**
-### Never elaborate a baroque excrescence on top of existing but shaky ideas.Go right to the foundations and test the implicit but unexamined assumptions of an important body of work, or lay the foundations for a new research thrust.
+### Never elaborate a baroque excrescence on top of existing but shaky ideas.Go right to the foundations and test the implicit but unexamined assumptions of an important body of work, or lay the foundations for a new research thrust
 
 # **Experimental Skills**
-### Experienced user of FEI (T12-TEM); XRD ; SEM
-### Master the ICP-MS , ORR and HER testing of catalysts.
-### Manage to do the Hydrothermal synthesis of 2D materials and Biomimetic synthesis of Pt-nanowire.
-### Master the use of peptide synthesizer (CSBIO).
+### Experienced user of FEI (T12-TEM); XRD ; SEM ; OM; UV-vis
+### Master the ICP-MS , ORR and HER testing of catalysts
+### Manage to do the Hydrothermal synthesis of 2D materials and Biomimetic synthesis of Pt-nanowire
+### Master the use of peptide synthesizer (CSBIO)
 ### Master the electrochemical intercalation and exfoliation of TMDs materials
+### Experienced user of freeze-dryer, ultra low temperature refrigerator
 
 # **Projects**
 ## Undergraduate thesis
