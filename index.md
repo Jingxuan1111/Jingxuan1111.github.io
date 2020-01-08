@@ -45,7 +45,7 @@
 ### **Proton exchange membrane fuel cell** 
 #### Creating a favorable microenvironment at the ionomer-support interface for high performance ORR in PEMFC.The manuscript is waiting for submission( one of the co-authors)
 
-## Graduate thesis topic
+## Possible graduate thesis topic
 ### **The synthesis and self-assembling of Pt nanoparticles driven by peptides**
 #### Apply Al and peptide-T7(T-L-T-T-L-T-A) to obtain 1D assembling.The 3D assembling is accomplished by Al and peptide-S7(S-S-P-P-G-P-A)
 
