@@ -42,7 +42,7 @@
 ### **Biomimetic synthesis of Ultrathin Pt nanowires by peptide-BP7A** 
 #### The Pt-nanowire supposed to show high ECSA and SA for ORR testing.The manuscript of this work is waiting for submission(Second Author)
 
-### **Proton exchange membrane fuel cell 
+### **Proton exchange membrane fuel cell** 
 #### Creating a favorable microenvironment at the ionomer-support interface for high performance ORR in PEMFC.The manuscript is waiting for submission( one of the co-authors)
 
 ## Graduate thesis topic
@@ -52,7 +52,7 @@
 ### **TMDs aerogel**
 #### Design a freeze-drying process for the exfoliated TMDs to form a semiconducting aerogel, which may have promising optical or mechanical properties
 
-### **Vertical stacking of TMDs flakes
+### **Vertical stacking of TMDs flakes**
 #### Applying strong binding peptide (specifically selected by phage library) to enhance the van de waals binding force for the TMDs flakes
 
 # **Selected Honours**
