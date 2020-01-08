@@ -18,7 +18,7 @@
 
 
 # **Biography**
-### I am currently a master student in Biomolecular-material Interface group, department of Materials Science & Engineering, University of California. My advisor is [Prof.Yuhuang](http://yhuang.seas.ucla.edu/Research/). I received my B.Eng.Degree from Xian Jiao Tong University (XJTU), under the supervision of [Prof.Hongjie Wang](http://mse-en.xjtu.edu.cn/en/people_show.php?id=4388) and a B.Sci.Degree of Economics as the second major.
+### I am currently a master student in the department of Materials Science & Engineering, University of California. My advisor is [Prof.Yuhuang](http://yhuang.seas.ucla.edu/Research/). I received my B.Eng.Degree from Xian Jiao Tong University (XJTU), under the supervision of [Prof.Hongjie Wang](http://mse-en.xjtu.edu.cn/en/people_show.php?id=4388) and a B.Sci.Degree of Economics as the second major.
 
 # **Field of interest**
 ### Energy storage & conversion materials; 2D materials; Nanomaterials
