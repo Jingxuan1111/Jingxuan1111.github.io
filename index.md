@@ -41,7 +41,7 @@
 
 ## Finished work
 ### **Biomimetic synthesis of Ultrathin Pt nanowires by peptide-BP7A** 
-#### The Pt-nanowire supposed to show high ECSA and SA for ORR testing.The manuscript of this work is waiting for submission(Second Author)
+#### The Pt-nanowire supposed to show higher ORR activities induced by grain boundaries.The manuscript of this work is waiting for submission(Second Author)
 
 ### **Proton exchange membrane fuel cell** 
 #### Creating a favorable microenvironment at the ionomer-support interface for high performance ORR in PEMFC.The manuscript is waiting for submission( one of the co-authors)
